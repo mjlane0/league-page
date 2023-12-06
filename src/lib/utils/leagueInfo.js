@@ -127,8 +127,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "474792801863725056",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Dan Snyders Football Team",
+      // "managerID": "474792801863725056",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "Dan Snyders Football Team",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -151,8 +151,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "606277875884154880",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Swift Cookin 'n London",
+      // "managerID": "606277875884154880",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "Swift Cookin 'n London",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -175,8 +175,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "606533439771987968",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "LETS RIDE",
+      // "managerID": "606533439771987968",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "LETS RIDE",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -199,8 +199,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "606693959070187520",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "I’m Sorry Smith-Jaxon",
+      // "managerID": "606693959070187520",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "I’m Sorry Smith-Jaxon",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -223,8 +223,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "726533768030003200",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Dan Top Franey Bottom",
+      // "managerID": "726533768030003200",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "Dan Top Franey Bottom",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -247,8 +247,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "726534451256967168",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "How I Kmet Your Mother",
+      // "managerID": "726534451256967168",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "How I Kmet Your Mother",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -271,8 +271,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "726590851656044544",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "Ramblin' Gamblin' Men",
+      // "managerID": "726590851656044544",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "Ramblin' Gamblin' Men",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -295,8 +295,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "726893409620529152",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "New Era",
+      // "managerID": "726893409620529152",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "New Era",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -319,8 +319,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "734974869502070784",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "J Jetta(GLI)",
+      // "managerID": "734974869502070784",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "J Jetta(GLI)",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
@@ -343,8 +343,8 @@ export const managers = [
 
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "726534451256967168",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
-      "name": "jacobfetter",
+      // "managerID": "726534451256967168",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      // "name": "jacobfetter",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": "Brooklyn", // (optional)
       // "bio": "Lorem ipsum...",
