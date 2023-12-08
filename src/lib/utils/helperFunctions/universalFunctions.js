@@ -89,7 +89,7 @@ export const getAuthor = (leagueTeamManagers, author) => {
 export const getAvatar = (leagueTeamManagers, author) => {
     for(const uID in leagueTeamManagers.users) {
         if(leagueTeamManagers.users[uID].user_name.toLowerCase() == "mtlane14") {
-            return `https://sleepercdn.com/avatars/thumbs/${leagueTeamManagers.users[726546848180957184].avatar}`
+            return `https://sleepercdn.com/avatars/thumbs/82aec8e811b839b8ec25d7b458afd57b`
         }
         if(leagueTeamManagers.users[uID].user_name.toLowerCase() == author.toLowerCase()) {
             return `https://sleepercdn.com/avatars/thumbs/${leagueTeamManagers.users[uID].avatar}`;
