@@ -92,7 +92,7 @@ export const getAvatar = (leagueTeamManagers, author) => {
             return `https://sleepercdn.com/avatars/thumbs/82aec8e811b839b8ec25d7b458afd57b`
         }
         if(leagueTeamManagers.users[uID].user_name.toLowerCase() == author.toLowerCase()) {
-            return `https://sleepercdn.com/avatars/thumbs/${leagueTeamManagers.users[uID].avatar}`;
+            return `https://sleepercdn.com/avatars/thumbs/82aec8e811b839b8ec25d7b458afd57b`;
         }
     }
     return 'managers/question.jpg';
